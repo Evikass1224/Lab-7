@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfToy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Toy>
+    <Name>Doll</Name>
+    <Price>1102</Price>
+    <MinAge>1</MinAge>
+    <MaxAge>8</MaxAge>
+  </Toy>
+  <Toy>
+    <Name>Dominoes</Name>
+    <Price>1558</Price>
+    <MinAge>5</MinAge>
+    <MaxAge>8</MaxAge>
+  </Toy>
+  <Toy>
+    <Name>Puzzles</Name>
+    <Price>1551</Price>
+    <MinAge>4</MinAge>
+    <MaxAge>5</MaxAge>
+  </Toy>
+  <Toy>
+    <Name>Tablet</Name>
+    <Price>344</Price>
+    <MinAge>9</MinAge>
+    <MaxAge>13</MaxAge>
+  </Toy>
+  <Toy>
+    <Name>The Dollhouse</Name>
+    <Price>1145</Price>
+    <MinAge>1</MinAge>
+    <MaxAge>4</MaxAge>
+  </Toy>
+</ArrayOfToy>
